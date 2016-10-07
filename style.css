@@ -1,0 +1,50 @@
+#main{width:90%;
+      height: 900px;
+     background-color: gray;
+      background-image: url(./images/3.jpg);
+       background-repeat: no-repeat;
+       background-position: center;
+       background-size: 900px 900px;;
+        
+      
+      border-radius: 10px;
+      margin-left: auto;
+      margin-right: auto;
+}
+#logo{width: 60%;
+      
+       height: 100px;
+       margin-top: 110px;
+       
+       float: left;
+       margin-left: 200px;
+}
+#logo img{
+          margin-left: 200px;
+          
+
+}
+#logo h2 { margin-left: 70px;
+      
+            
+      color: darkblue;
+}
+.data{width: 800px;
+      
+      float: left;
+      margin-top: 100px;
+      margin-left: 200px;
+}
+.data h3{color: #8DC63F;
+            font-size: 16px;
+            
+            font-family: Courier New, Courier, monospace;
+}
+span{color: darkslateblue;}
+
+#mou img {width:300px;
+     height: 200px;
+     float: left;
+     margin-top: 400px;
+     margin-left: -400px;
+}
